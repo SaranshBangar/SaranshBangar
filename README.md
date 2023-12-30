@@ -30,5 +30,7 @@
 
 [![Saransh’s github stats](https://github-readme-stats.vercel.app/api?username=SaranshBangar&show_icons=true&theme=dark&count_private=true)](https://github.com/SaranshBangar)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=SaranshBangar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 ## 👀 Visitors
 ![Visitors](https://moe-counter.glitch.me/get/@SaranshBangar?)
