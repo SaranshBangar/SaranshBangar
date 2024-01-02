@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📄 Know more about me at [https://portfolio-saranshbangar.netlify.app/](https://portfolio-saranshbangar.netlify.app/)
+- 📄 Know more about me at [my website](https://saransh-bangar-sem3-dsa-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript & C/C++**
 
 - 📫 How to reach me **saranshbangad@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c3v0-y50CF08-fW5GkZ6xw2ZbHIcsfpe/view?usp=sharing](https://drive.google.com/file/d/1c3v0-y50CF08-fW5GkZ6xw2ZbHIcsfpe/view?usp=sharing)
+- 📄 Know about [my experiences](https://rxresu.me/saranshbangad/software-developer)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
