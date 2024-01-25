@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Saransh Bangar</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
-<!--
-**SaranshBangar/SaranshBangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **a website that will help enthusiast people take their first step in web developement**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Backend Web Developement**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS & C/C++**
+
+- 📫 Reach me at **saranshbangad@gmail.com**
+
+- 📄 Know about [my experiences](https://rxresu.me/saranshbangad/software-developer)
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/SaranshBangar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranshbangar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/saranshbangar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saranshbangar" height="30" width="40" /></a>
+<a href="https://leetcode.com/SaranshBangar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saranshbangar" height="30" width="40" /></a>
+<a href="https://instagram.com/saransh.bangar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saransh.bangar" height="30" width="40" /></a>
+<a href="https://twitter.com/SaranshBangar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saranshbangar" height="30" width="40" /></a>
+</p>
+
+## 📈 GitHub Stats
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=SaranshBangar&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=SaranshBangar&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=SaranshBangar&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/SaranshBangar/github-stats">
+</a>
+
+## 📈 LeetCode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/SaranshBangar)
+
+## 👀 Visitors
+![Visitors](https://moe-counter.glitch.me/get/@SaranshBangar?)
