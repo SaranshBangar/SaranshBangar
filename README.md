@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/018cf67e-88b4-40bc-8c0f-5348d2c27274.svg)](https://wakatime.com/@018cf67e-88b4-40bc-8c0f-5348d2c27274)
+
 <h1 align="center">Hi, I'm Saransh Bangar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
