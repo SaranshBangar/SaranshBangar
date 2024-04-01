@@ -26,7 +26,7 @@
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=SaranshBangar&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=SaranshBangar&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=SaranshBangar&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=SaranshBangar&layout=compact&type=piechart&sort=desc&minimum=1&max_lang=5&exclude_repo=GeeksforGeeks-Solutions)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=SaranshBangar&theme=synthwave&layout=compact&type=piechart&sort=desc&exclude_repo=GeeksforGeeks-Solutions)](https://github.com/KasRoudra/github-stats-card)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saranshbangar&theme=dark" alt="tartejbrothers" />
 </div>
