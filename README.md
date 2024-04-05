@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'm Saransh Bangar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **a website that will help enthusiast people take their first step in web developement**
+- 🔭 I’m currently working on **a fullstack forum website for my university**
 
 - 🌱 I’m currently learning **Backend Web Developement**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS & C/C++**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Next.js & C/C++**
 
 - 📫 Reach me at **saranshbangad@gmail.com**
 
@@ -26,7 +26,7 @@
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=SaranshBangar&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=SaranshBangar&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=SaranshBangar&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=SaranshBangar&theme=synthwave&layout=compact&type=piechart&sort=desc&exclude_repo=GeeksforGeeks-Solutions)]
+![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=SaranshBangar&theme=synthwave&layout=compact&type=piechart&sort=desc&exclude_repo=GeeksforGeeks-Solutions)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saranshbangar&theme=dark" alt="tartejbrothers" />
 </div>
