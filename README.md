@@ -1,13 +1,15 @@
 [![wakatime](https://wakatime.com/badge/user/018cf67e-88b4-40bc-8c0f-5348d2c27274.svg)](https://wakatime.com/@018cf67e-88b4-40bc-8c0f-5348d2c27274)
 
-<h1 align="center">Hi, I'm Saransh Bangar</h1>
+<p align="center">
+  <img src="gitartwork.svg" />
+</p> 
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on **a fullstack forum website for my university**
 
 - 🌱 I’m currently learning **Backend Web Developement**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Next.js & C/C++**
+- 💬 Ask me about **HTML, CSS, TailWindCSS, JavaScript, TypeScript, ReactJS, Next.js & C/C++**
 
 - 📫 Reach me at **saranshbangad@gmail.com**
 
