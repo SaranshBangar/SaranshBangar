@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/018cf67e-88b4-40bc-8c0f-5348d2c27274.svg)](https://wakatime.com/@018cf67e-88b4-40bc-8c0f-5348d2c27274)
+<img src="https://komarev.com/ghpvc/?username=SaranshBangar&label=Visitors" />
 
 <p align="center">
   <img src="gitartwork.svg" />
@@ -36,6 +37,3 @@
 ## 📈 LeetCode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/SaranshBangar)
-
-## 👀 Visitors
-![Visitors](https://moe-counter.glitch.me/get/@SaranshBangar?)
