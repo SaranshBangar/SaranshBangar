@@ -25,9 +25,6 @@
   <img width="400" src="https://kasroudra-stats-card.onrender.com/user?user=SaranshBangar&theme=synthwave" />
 </div>
 <div align="center">
-  <img width="425" src="https://streak-stats.demolab.com/?user=SaranshBangar&theme=react" />
-</div>
-<div align="center">
   <img src="https://kasroudra-stats-card.onrender.com/lang?user=SaranshBangar&theme=synthwave&layout=compact&type=piechart&sort=desc" />
 </div>
 <div align="center">
