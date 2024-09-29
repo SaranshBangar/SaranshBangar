@@ -26,3 +26,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saranshbangar&theme=dark" alt="tartejbrothers" />
 </div>
+
+## 🏅 Holopin Badges
+
+[![An image of @saranshbangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saranshbangar)](https://holopin.io/@saranshbangar)
