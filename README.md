@@ -27,6 +27,15 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saranshbangar&theme=dark" alt="tartejbrothers" />
 </div>
 
-## 🏅 Holopin Badges
+## 🏅 Badges
 
 [![An image of @saranshbangar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saranshbangar)](https://holopin.io/@saranshbangar)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d934bd8c-1317-4d8e-836f-0e3b4b16f239" data-share-badge-host="https://www.credly.com"></div>
+<div align="center">
+  <a href="https://www.credly.com/badges/d934bd8c-1317-4d8e-836f-0e3b4b16f239/public_url">
+    <img src="https://github.com/user-attachments/assets/4a87de9b-a210-45c2-983a-ae88d14c1b36" width="250" height="250" />
+  </a>
+  <a href="https://api.badgr.io/public/assertions/DPRd0IjdTLOCCC5WQr0-kw">
+    <img src="https://github.com/user-attachments/assets/c0b7f1ff-284a-470e-8e3d-9d4dcfb5b2f0" width="250" height="250" />
+  </a>
+</div>
