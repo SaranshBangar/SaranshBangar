@@ -4,7 +4,7 @@
 
 <h3 align="center">Techstack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,sass,bootstrap,tailwind,react,nextjs,nodejs,npm,vite,ts,jquery,express,mysql,postman,docker,figma,bun,c,cpp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,styledcomponents,js,ts,react,nextjs,redux,jquery,vite,nodejs,express,fastapi,graphql,postgres,mongodb,mysql,firebase,supabase,docker,netlify,vercel,git,github,postman,sentry,figma,bun,npm,pnpm,c,cpp&perline=9" />
 </p>
 
 <h3 align="center">Connect with me!</h3>
@@ -26,6 +26,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saranshbangar&theme=dark" alt="tartejbrothers" />
 </div>
+
+## 📝 LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/SaranshBangar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="jyot" height="150" width="150" /></a>
+  <a href="https://leetcode.com/SaranshBangar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="150" width="150" /></a>
+  <a href="https://leetcode.com/SaranshBangar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="150" width="150" /></a>
+</p>
 
 ## 🏅 Badges
 
