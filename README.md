@@ -17,15 +17,21 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaranshBangar&theme=synthwave" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaranshBangar&theme=synthwave" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saranshbangar&theme=dark" alt="tartejbrothers" />
-</div>
+<a src="https://www.saransh-bangar.xyz/" target="_blank">
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaranshBangar&theme=synthwave" />
+  </div>
+</a>
+<a src="https://www.saransh-bangar.xyz/" target="_blank">
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaranshBangar&theme=synthwave" />
+  </div>
+</a>
+<a src="https://wakatime.com/@SaranshBangar" target="_blank">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saranshbangar&theme=dark" alt="tartejbrothers" />
+  </div>
+</a>
 
 ## 📝 LeetCode Stats
 <p align="center">
