@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://leetcode.com/SaranshBangar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="150" width="150" /></a>
   <a href="https://leetcode.com/SaranshBangar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365.gif" alt="jyot" height="150" width="150" /></a>
-  <a href="https://leetcode.com/SaranshBangar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="150" width="150" /></a>
+  <a href="https://leetcode.com/SaranshBangar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500.gif" alt="jyot" height="150" width="150" /></a>
 </p>
 
 ## 🏅 Badges
