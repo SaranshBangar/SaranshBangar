@@ -1,11 +1,13 @@
 [![wakatime](https://wakatime.com/badge/user/018cf67e-88b4-40bc-8c0f-5348d2c27274.svg)](https://wakatime.com/@018cf67e-88b4-40bc-8c0f-5348d2c27274)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/saransh_bangar)](https://peerlist.io/saransh_bangar)
 
 <h2 align="center">a software developer</h2>
 
 <h3 align="center">Techstack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,styledcomponents,js,ts,react,nextjs,redux,jquery,vite,nodejs,express,fastapi,graphql,postgres,mongodb,mysql,firebase,supabase,docker,netlify,vercel,git,github,postman,sentry,figma,bun,npm,pnpm,c,cpp&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,redux,nodejs,express,graphql,postgres,mongodb,mysql,sqlite,firebase,supabase,docker,git,github,vite,py,bootstrap,tailwind,materialui,sass,html,css,jquery,bun,npm,pnpm,yarn,netlify,vercel,postman,sentry,figma,webstorm,vscode,obsidian,c,cpp&perline=7" />
 </p>
+
 
 <h3 align="center">Connect with me!</h3>
 <p align="center">
